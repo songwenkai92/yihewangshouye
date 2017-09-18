@@ -1,0 +1,27 @@
+.yhsyhtit{
+  width: 1100px;
+  height: 32px;
+  overflow: hidden;
+  padding: 10px 0;
+}
+.yhsyhtitw{
+  float: left;
+  width: 222px;
+  height: 32px;
+  text-align: center;
+  line-height: 32px;
+  color: #1860cd;
+  font-size: 34px;
+}
+.yhsyhtitheng{
+  width: 439px;
+  height: 32px;
+  float: left;
+}
+.yhsyhtitheng hr{
+  margin-top: 15px;
+  width: 439px;
+  height: 2px;
+  background-color: #dedede;
+  border: none;
+}
