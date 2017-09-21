@@ -1,0 +1,118 @@
+.hyzxwrap{
+  width: 100%;
+  height: 224px;
+}
+.hyzx{
+  width: 1100px;
+  height: 224px;
+  margin: -60px auto 0;
+}
+.hyzxtit{
+  width: 1100px;
+  height: 44px;
+  background: #000;
+  opacity: 0.8;
+}
+.hyzxtit ul{
+  float: left;
+}
+.more{
+  float: right;
+  margin-right: 30px;
+  width: 80px;
+  height: 26px;
+  line-height: 26px;
+  border: 1px solid #999;
+  border-radius: 4px;
+  margin-top: 7px;
+}
+.more a{
+  color: #999;
+  font-size: 12px;
+}
+.hyzxtit ul li{
+  width: 190px;
+  height: 44px;
+  line-height: 44px;
+  color: #fff;
+  float: left;
+  text-align: center;
+  font-size: 18px;
+  cursor: pointer;
+}
+.hyzxtit ul li.active{
+  background: #f6f7fc;
+  color: #333;
+}
+.hyzxconwrap{
+  width: 1100px;
+  height: 180px;
+}
+.hyzxcon{
+  width: 1100px;
+  height: 180px;
+  background: #f6f7fc;
+  display: none;
+}
+.hyzxtime{
+  width: 154px;
+  height: 180px;
+  float: left;
+}
+.hyzxtimecon{
+  width: 76px;
+  height: 94px;
+  margin: 38px auto 0;
+  border: 3px solid #edeef2;
+}
+.year{
+  margin-top: 30px;
+  font-size: 14px;
+  line-height: 14px;
+  color: #999;
+}
+.day{
+  color: #333;
+  font-size: 22px;
+}
+.hyzxtop{
+  width: 410px;
+  float: left;
+}
+.hyzxtoptit{
+  margin-top: 38px;
+  width: 410px;
+  height: 40px;
+  border-bottom: 3px dotted #999;
+  font-size: 16px;
+  line-height: 40px;
+  text-align: left;
+}
+.hyzxtopc{
+  width: 410px;
+  margin-top: 10px;
+  font-size: 12px;
+  color: #999;
+  text-align: left;
+  line-height: 18px;
+}
+.hyzxlist{
+  margin:38px 0 0 70px;
+  width: 440px;
+  float: left;
+}
+.hyzxlist li{
+  width: 440px;
+  height: 30px;
+  line-height: 30px;
+}
+.hyzxlist li a{
+  color: #999;
+  font-size: 12px;
+  float: left;
+}
+.hyzxlist li span{
+  color: #999;
+  font-size: 12px;
+  float: right;
+}

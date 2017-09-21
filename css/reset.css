@@ -11,12 +11,14 @@ img,input{
   vertical-align:middle;
 }
 body{
-  font-family: "Microsoft YaHei",Tahoma,Arial,Helvetica,;
+  font-family: "Microsoft YaHei",Tahoma,Arial,Helvetica;
   font-size:12px;
   text-align:center;
   background: #fff;
+  color:#333;
 }
-html{
+h1,h2,h3,h4,h5,h6{
+  font-weight: normal;
 }
 ul,ol{list-style-type:none;}
 button{border:none;cursor:pointer;font-size:12px;}

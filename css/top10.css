@@ -1,0 +1,84 @@
+.top10{
+  width: 1100px;
+  height: 600px;
+  margin: 50px auto;
+}
+.top10con{
+  width: 1100px;
+  height: 500px;
+}
+.topwrap{
+  width: 814px;
+  height: 320px;
+  border: 3px solid #fff;
+  margin: 0 auto;
+  padding:64px 0 0 200px;
+  position: relative;
+}
+.topwrap h3{
+  text-align: left;
+  font-size: 24px;
+}
+.hqxwrap{
+  width: 726px;
+  height: 220px;
+  overflow: hidden;
+  margin-top: 40px;
+  position: relative;
+}
+.hqx{
+  width: 1452px;
+  height: 220px;
+  position: absolute;
+}
+.hqxlist{
+  width: 726px;
+  height: 220px;
+  float: left;
+}
+.sectionwrap{
+  width: 726px;
+  height: 220px;
+}
+.sectionwrap li{
+  width: 134px;
+  float: left;
+  margin-right: 14px;
+}
+.sectionwrap li:last-child{
+  margin-right: 0;
+}
+.sectionwrap li p{
+  width: 110px;
+  padding: 0 12px;
+  font-size: 16px;
+  text-align: left;
+  margin-top: 16px;
+}
+.simgwrap{
+  background: #fff;
+  width: 134px;
+  height: 146px;
+  border-radius: 6px;
+}
+.topbtn{
+  width: 80px;
+  height: 80px;
+  background: #fff;
+  border-radius: 40px;
+  position: absolute;
+  top:50%;
+  margin-top: -40px;
+  cursor: pointer;
+}
+#topbtnl{
+  left: -40px;
+}
+#topbtnr{
+  right: -40px;
+}
+.xiaoe{
+  position: absolute;
+  bottom: -37px;
+  left:45px;
+}

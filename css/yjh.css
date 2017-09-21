@@ -1,0 +1,140 @@
+.yjhwrap{
+  width: 100%;
+  height: 440px;
+  background: #e4f2f8;
+}
+.yjh{
+  width: 1100px;
+  height: 440px;
+  margin: 0 auto;
+}
+.yjhcon{
+  width: 1050px;
+  height: 340px;
+  margin-left: 50px;
+  position: relative;
+}
+.maohao{
+  position: absolute;
+  right: 0;
+  bottom: 40px;
+}
+.yjhl{
+  width: 220px;
+  height: 260px;
+  float: left;
+  background: #fff;
+  border-radius: 8px;
+  margin-right: 78px;
+}
+.yjhl img{
+  width: 220px;
+  height: 260px;
+}
+.yjhr{
+  width: 600px;
+  height: 260px;
+  float: left;
+  text-align: left;
+}
+.yjhr h3{
+  height: 70px;
+  line-height: 70px;
+  font-size: 22px;
+  font-weight: normal;
+}
+.yjhr p{
+  width: 600px;
+  height: 94px;
+  line-height: 24px;
+  font-size: 16px;
+  color: #333;
+  word-wrap: break-word;
+}
+.count_down{
+  width: 600px;
+  height: 30px;
+  margin-top: 10px;
+  position: relative;
+}
+.sumBarBack{
+  width: 300px;
+  height: 26px;
+  position: absolute;
+  top:0;
+  left: 0;
+  border: 2px solid #ef1515;
+  background: #ffe9e0;
+  border-radius:20px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+}
+.sumBarBack div{
+  height: 26px;
+  line-height: 26px;;
+  color: #ef1515;
+}
+.sold{
+  margin-left: 10px;
+}
+.percent1_1{
+  margin-right: 10px;
+}
+.sumBar{
+  width: 300px;
+  height: 26px;
+  border: 2px solid #ef1515;
+  background: #ef1515;
+  border-radius:20px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+}
+.sumBar div{
+  height: 26px;
+  line-height: 26px;
+  color: #fff;
+}
+.sumBarWrap{
+  width: 20%;
+  height: 30px;
+  overflow: hidden;
+  border-radius: 20px;
+}
+.sumwrap{
+  width: 300px;
+  height: 30px;
+  overflow: hidden;
+  position: absolute;
+  top:0;
+  left: 0;
+  border-radius: 20px;
+}
+.pricewrap{
+  width: 600px;
+  height: 40px;
+  margin-top: 10px;
+}
+.partin{
+  width: 130px;
+  height: 40px;
+  background: #ef1515;
+  color: #fff;
+  line-height: 40px;
+  font-size: 18px;
+  text-align: center;
+  border-radius: 6px;
+  float: right;
+}
+.price{
+  float: left;
+  height: 40px;
+  color: #666;
+  font-size: 18px;
+  line-height: 40px;
+}
+.price span{
+  color: #333;
+  font-size: 36px;
+}
